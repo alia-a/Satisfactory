@@ -1,9 +1,13 @@
 # Opastimet
 
+## Alueopastimet
+Alueopastimet ovat perustyökalu useamman junan rataverkoissa. Opastimet jakavat radan alueisiin, joissa voi olla vain yksi juna kerrallaan. Opastimia tulisi laittaa ennen ja jälkeen jokaisen risteyksen, poislukien tilanteet, joissa suunnittelemasi maksimipituinen juna ei tule mahtumaan kahden risteysalueen väliin. Tässä tilanteessa on parempi jättää opastimet pois ko risteysten väliltä, tai käyttää reittiopastimia. Lisäksi pitkät risteyksettömät pätkät on hyvä jakaa alueisiin alueopastimilla, jotta junien ei tarvitse odottaa koko pitkän pätkän vapautumista ennen sille lähtöä.
+
+## Reittiopastimet
 Reittiopastimet määrittävät alueen, jonne juna ei voi pysähtyä. 
 Tämän seurauksena esimerkisi risteysalue voidaan pitää tyhjänä muille junille, jos yksi juna odottaa risteyksen yhden ulostulon vapautumista.
 
-## Reittiopastimien käyttö
+### Reittiopastimien käyttö
 
 Reittiopastin aloittaa alueen, jossa junat kulkevat varaten itselleen reitin alueen alusta loppuun asti. Tästä syystä kaikkiin ko alueelle tuleviin 
 ratoihin täytyy laittaa reittiopasteinjos yhdessäkään on sellainen. Alue päättyy alueopastimeen, joten jokainen alueelta poistuva raide vaatii sellaisen.
@@ -17,5 +21,6 @@ Käytännössä reittiopastimia on hyvä käyttää seuraavissa tilanteissa:
 
 Reittiopastimien käyttö vaatii tarkkuutta. Poistumisopastimen (alueopastin) jälkeen junalle tulisi olla tarpeeksi tilaa mahtua kokonaan ko alueopastimen ohi ennen seuraavaa alue- tai reittiopastinta. Jos näin ei ole, voi juna joutua pysähtymään seuraavalle opastimelle niin, että vaunut jäävät tukkimaan edellistä risteystä (huolimatta siitä, että reittiopastimien tarkoitus oli estää tuollainen). Jos tilaa ei ole tarpeeksi, tulisi reittiopastinketjua jatkaa siihen asti, että vähintään junan mittainen alue on mahdollista allokoida alueopastimen jälkeen.
 
-  ## Kaksisuuntaisten reittiopastimien käyttö
+
+## Kaksisuuntaiset opastimet
   
