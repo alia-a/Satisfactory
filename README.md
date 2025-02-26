@@ -1,3 +1,3 @@
 # Satisfactoryohjeita tuttaville
 ## Sisällys
-- [Reittiopastimet](Reittiopastimet.md)
+- [Reittiopastimet](Opastimet.md)
